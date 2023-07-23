@@ -41,7 +41,7 @@ body {
     justify-content: center;
     align-items: center;
 
-    width: 25px;
+    /* width: 25px; */
     height: 35px;
     top: 166px;
     left: 710px;
@@ -327,6 +327,14 @@ h1 {
     border-radius: 6px;
 }
 
+
+@media only screen and (max-width: 900px) {
+    #inputs {
+        display: grid;
+        justify-content: center;
+        align-content: center;
+    }
+}
 
 @media only screen and (max-width: 600px) {
     #card {

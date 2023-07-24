@@ -56,13 +56,13 @@ O objetivo deste projeto é fornecer uma ferramenta interativa e informativa par
 
 <div align="center" style="display: block; width: 100%;">
   <div style="diplay: inline;">
-     <img src="https://github.com/DevHiuryLima/Web-Pokedex/assets/69491885/b67ecbd1-92c5-4734-84fa-34f0e164a25e" width="250px" height="115px" title="Tela inicial do site." alt="Tela inicial do site, sendo um campo de busca e um botão de pesquisar (da cor roxa) e o fundo da cor lilás claro.">
-     <img src="https://github.com/DevHiuryLima/Web-Pokedex/assets/69491885/ce774446-79b8-48e0-a4cf-9ff30936b092" width="250px" height="115px" title="Tela inicial com uma busca por nome." alt="Tela inicial do site com o campo de busca preenchido com o nome Pikachu. Abaixo, o card mostra a imagem do Pokémon e suas informações, como o ID, Nome e o tipo (elétrico).">
+     <img src="https://github.com/DevHiuryLima/Web-Pokedex/assets/69491885/b67ecbd1-92c5-4734-84fa-34f0e164a25e" width="450px" height="115px" title="Tela inicial do site." alt="Tela inicial do site, sendo um campo de busca e um botão de pesquisar (da cor roxa) e o fundo da cor lilás claro.">
+     <img src="https://github.com/DevHiuryLima/Web-Pokedex/assets/69491885/ce774446-79b8-48e0-a4cf-9ff30936b092" width="450px" height="115px" title="Tela inicial com uma busca por nome." alt="Tela inicial do site com o campo de busca preenchido com o nome Pikachu. Abaixo, o card mostra a imagem do Pokémon e suas informações, como o ID, Nome e o tipo (elétrico).">
   </div>
  
   <div style="diplay: inline;">
-     <img src="https://github.com/DevHiuryLima/Web-Pokedex/assets/69491885/82ec4445-9578-4b14-89e2-8249ba5b3b2f" width="250px" height="115px" title="Tela inicial com uma busca por id." alt="Tela inicial do site com o campo de busca preenchido com o id seis. Abaixo, o card mostra a imagem do Pokémon e suas informações, como o ID, Nome e os tipos 'fire' e 'flying'.">
-     <img src="https://github.com/DevHiuryLima/Web-Pokedex/assets/69491885/27aa6c76-78e2-46fb-9208-8068407f2adf" width="250px" height="115px" title="Tela inicial com uma busca entre o id um e cem." alt="Tela inicial do site com o campo de busca preenchido com o id entre um e cem (1-100). Abaixo, o card dos cem Pokémons e suas respectivas informações, a imagem, ID, Nome e os tipos.">
+     <img src="https://github.com/DevHiuryLima/Web-Pokedex/assets/69491885/82ec4445-9578-4b14-89e2-8249ba5b3b2f" width="450px" height="115px" title="Tela inicial com uma busca por id." alt="Tela inicial do site com o campo de busca preenchido com o id seis. Abaixo, o card mostra a imagem do Pokémon e suas informações, como o ID, Nome e os tipos 'fire' e 'flying'.">
+     <img src="https://github.com/DevHiuryLima/Web-Pokedex/assets/69491885/27aa6c76-78e2-46fb-9208-8068407f2adf" width="450px" height="115px" title="Tela inicial com uma busca entre o id um e cem." alt="Tela inicial do site com o campo de busca preenchido com o id entre um e cem (1-100). Abaixo, o card dos cem Pokémons e suas respectivas informações, a imagem, ID, Nome e os tipos.">
   </div>
   
   <div style="diplay: inline;">
